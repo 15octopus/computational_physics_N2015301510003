@@ -13,7 +13,7 @@
 
 - [x] exerxise4
 
-1. [statement]()
+1. [statement](http://note.youdao.com/noteshare?id=30b570e471b162ecec7cea362ee00267)
 
 2. [code.1](http://note.youdao.com/noteshare?id=27f9dde2f3f777537052d1c356413eba)
 
