@@ -15,4 +15,6 @@
 
 1. [statement]()
 
-2. [code](http://note.youdao.com/noteshare?id=27f9dde2f3f777537052d1c356413eba)
+2. [code.1](http://note.youdao.com/noteshare?id=27f9dde2f3f777537052d1c356413eba)
+
+3. [code.2](http://note.youdao.com/noteshare?id=d6695e521a2da184b96ee09141859ca6)
