@@ -15,4 +15,4 @@
 
 1. [statement]()
 
-2. [code]()
+2. [code](http://note.youdao.com/noteshare?id=27f9dde2f3f777537052d1c356413eba)
