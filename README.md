@@ -1,17 +1,17 @@
 # computational_physics_N2015301510003
-- exercise2
+- exercise 2
 
 1. [statement](http://www.jianshu.com/p/ac2bd281da16)
 
 2. [code](http://note.youdao.com/noteshare?id=ec27785216869b5d82a9669a69e421cd)
 
-- exerxise3
+- exerxise 3
 
 1. [statement](http://note.youdao.com/noteshare?id=29a6db250b087c723e58e753c3029baa)
 
 2. [code](http://note.youdao.com/noteshare?id=807672485ba34869da12c68fdbc6d19f)
 
--  exerxise4
+-  exerxise 4
 
 1. [statement](http://note.youdao.com/noteshare?id=30b570e471b162ecec7cea362ee00267)
 
@@ -19,8 +19,14 @@
 
 3. [code.2](http://note.youdao.com/noteshare?id=d6695e521a2da184b96ee09141859ca6)
 
-- [x] exerxise5
+-  exerxise 5
 
 1. [statement](http://note.youdao.com/noteshare?id=a975f986c68e0f9823b51cc3bea78c9a)
 
 2. [code](http://note.youdao.com/noteshare?id=47d5116eaffef6d799851fa386981687)
+
+- [x] exerxise 6
+
+1. [statement](http://note.youdao.com/noteshare?id=8fd8382b3ca2bb271a33fdabc7ba146d)
+
+2. [code](http://note.youdao.com/noteshare?id=2c6438f58d5bec4684be79c1b5cac0f7)
