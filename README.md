@@ -25,8 +25,14 @@
 
 2. [code](http://note.youdao.com/noteshare?id=47d5116eaffef6d799851fa386981687)
 
-- [x] exerxise 6
+-  exerxise 6
 
 1. [statement](http://note.youdao.com/noteshare?id=8fd8382b3ca2bb271a33fdabc7ba146d)
 
 2. [code](http://note.youdao.com/noteshare?id=2c6438f58d5bec4684be79c1b5cac0f7)
+
+- [x] exercise 7
+
+1.[statement](http://note.youdao.com/noteshare?id=86781f1d2c92c8d9c14bdb0e8c60d932)
+
+2.[code](http://note.youdao.com/noteshare?id=317dc03682d32e21a58ee9fde0b1bfc3)
