@@ -1,4 +1,4 @@
- 
+  
 # computational_physics_N2015301510003
 - exercise 2
 
@@ -44,6 +44,6 @@
 
 2. [code](http://note.youdao.com/noteshare?id=f92ac01ca3894bfb4cfa8e22c231947f)
 
-- [x]mid-term
+- [x] mid-term
 
 1. [code](http://note.youdao.com/noteshare?id=56ffb0de22bbb3476dda534762b04ef5)
