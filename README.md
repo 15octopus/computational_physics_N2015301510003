@@ -44,6 +44,12 @@
 
 2. [code](http://note.youdao.com/noteshare?id=f92ac01ca3894bfb4cfa8e22c231947f)
 
-- [x] mid-term
+-  mid-term
 
 1. [code](http://note.youdao.com/noteshare?id=56ffb0de22bbb3476dda534762b04ef5)
+
+-  exercise 9
+
+1. [statement]()
+
+2. [code](http://note.youdao.com/noteshare?id=1742c7857073e7cc3bb73a782edf970a)
