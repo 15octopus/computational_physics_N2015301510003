@@ -50,6 +50,6 @@
 
 -  exercise 9
 
-1. [statement]()
+1. [statement](http://note.youdao.com/noteshare?id=5e5d42f6927f46bf334c337911cbe681)
 
 2. [code](http://www.jianshu.com/p/cf370c9eb148)
