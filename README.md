@@ -52,4 +52,4 @@
 
 1. [statement]()
 
-2. [code](http://note.youdao.com/noteshare?id=1742c7857073e7cc3bb73a782edf970a)
+2. [code](http://www.jianshu.com/p/cf370c9eb148)
