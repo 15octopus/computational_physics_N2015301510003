@@ -48,7 +48,7 @@
 
 1. [code](http://note.youdao.com/noteshare?id=56ffb0de22bbb3476dda534762b04ef5)
 
--  exercise 9
+- [x] exercise 9
 
 1. [statement](http://note.youdao.com/noteshare?id=5e5d42f6927f46bf334c337911cbe681)
 
