@@ -48,8 +48,14 @@
 
 1. [code](http://note.youdao.com/noteshare?id=56ffb0de22bbb3476dda534762b04ef5)
 
-- [x] exercise 9
+-  exercise 9
 
 1. [statement](http://note.youdao.com/noteshare?id=5e5d42f6927f46bf334c337911cbe681)
 
 2. [code](http://www.jianshu.com/p/cf370c9eb148)
+
+- [x] exercise 10
+
+1. [ststement](http://note.youdao.com/noteshare?id=a6527e22bdffde56ea1e4eaa22c9c1df)
+
+2. [code](http://note.youdao.com/noteshare?id=2c0d6256e39d3aafc640a5323e3e0f9e)
