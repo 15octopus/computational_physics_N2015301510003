@@ -55,7 +55,7 @@
 
 2. [code](http://www.jianshu.com/p/cf370c9eb148)
 
-- [x] exercise 10
+-  exercise 10
 
 1. [ststement](http://note.youdao.com/noteshare?id=a6527e22bdffde56ea1e4eaa22c9c1df)
 
