@@ -1,4 +1,5 @@
-  
+
+
 # computational_physics_N2015301510003
 - exercise 2
 
@@ -59,3 +60,9 @@
 1. [ststement](http://note.youdao.com/noteshare?id=a6527e22bdffde56ea1e4eaa22c9c1df)
 
 2. [code](http://note.youdao.com/noteshare?id=2c0d6256e39d3aafc640a5323e3e0f9e)
+
+- [x] exercise 11
+
+1.[statement](http://note.youdao.com/noteshare?id=70494ab3f244393b517f6446d9cbe70f)
+
+2.[code](http://note.youdao.com/noteshare?id=b82ff18dfa740b78cc340aaf12ab74d0)
