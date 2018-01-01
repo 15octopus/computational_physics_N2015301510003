@@ -61,8 +61,22 @@
 
 2. [code](http://note.youdao.com/noteshare?id=2c0d6256e39d3aafc640a5323e3e0f9e)
 
-- [x] exercise 11
+-  exercise 11
 
 1. [statement](http://note.youdao.com/noteshare?id=70494ab3f244393b517f6446d9cbe70f)
 
 2. [code](http://note.youdao.com/noteshare?id=b82ff18dfa740b78cc340aaf12ab74d0)
+
+-  final exam 
+
+1.[statement](http://note.youdao.com/noteshare?id=9a6d96221eaae29fae4f0047c3eba46b)
+
+2.[code 1](http://note.youdao.com/noteshare?id=df42a2ded0e7d4de2f5c0f736fd5462e)
+
+[code 2](http://note.youdao.com/noteshare?id=8a7f7ccf062e86dedf46df4395b09824)
+
+[code 3](http://note.youdao.com/noteshare?id=8a7f7ccf062e86dedf46df4395b09824)
+
+[code 4](http://note.youdao.com/noteshare?id=c6ad9436ca3b25f88d3bd319239008b3)
+
+[code 5](http://note.youdao.com/noteshare?id=d953bb546185186911a108e812a2754c)
